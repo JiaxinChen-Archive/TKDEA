@@ -4,7 +4,7 @@
 
 ## Introduction
 
-Bilevel optimization is a special type of optimization in which one problem is embedded within another. The bilevel optimization problem of which both levels are multiobjective functions is usually called the multiobjective bilevel optimization problem (MBLOP). The expensive computation and nested features make it challenging to solve. 
+Bilevel optimization is a special type of optimization in which one problem is embedded within another. The bilevel optimization problem of which both levels are multiobjective functions is usually called the multiobjective bilevel optimization problem (MBLOP). The expensive computation and nested features make it challenging to solve. However, not every lower-level solution will participate in the bilevel Pareto-optimal front.
 
 We propose a multiobjective bilevel optimization solving routine combined with a knee point driven algorithm. Specifically, the proposed algorithm aims to quickly find feasible solutions considering the lower-level constraints in the first stage and then concentrates the computational resources on finding solutions with better performance. 
 
