@@ -10,7 +10,8 @@ We propose a multiobjective bilevel optimization solving routine combined with a
 
 Besides, we develop several multiobjective bilevel test problems with different properties, such as scalable, deceptive, convexity, and (dis)continuous.  
 
-Finally, the performance of the algorithm is validated on a practical petroleum refining bilevel problem, which involves a multiobjective environmental regulation problem and a petroleum refining operational problem.
+Finally, the performance of the algorithm is validated on a practical petroleum refining bilevel problem, which involves a multiobjective environmental regulation problem and a petroleum refining operational problem.![PDF Image](PracticalProblem.png)
+
 
 ## Code
 
