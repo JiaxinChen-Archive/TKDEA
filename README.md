@@ -12,8 +12,8 @@ Besides, we develop several multiobjective bilevel test problems with different 
 
 Finally, the performance of the algorithm is validated on a practical petroleum refining bilevel problem, which involves a multiobjective environmental regulation problem and a petroleum refining operational problem.
 
-![Pr](PracticalProblem.png)
-*Pr*
+![petroleum refining operational problem](PracticalProblem.png)
+*Petroleum Refining Operational Problem*
 
 
 
