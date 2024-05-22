@@ -16,11 +16,6 @@ Finally, the performance of the algorithm is validated on a practical petroleum 
 *Petroleum Refining Operational Problem*
 
 
-
-## Code
-
-The relevant code is in the process of being organized.
-
 ## Contact
 
 If you meet any problems, please feel free to contact me.
